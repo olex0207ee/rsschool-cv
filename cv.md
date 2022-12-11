@@ -1,5 +1,5 @@
 # About me: Ukrainskyi Oleksandr
-
+![Ukrainskyi Oleksandr](images/ou.jpeg)
 *** 
 *** 
 
@@ -22,6 +22,39 @@
 # Skills:
 
 ### HTML, CSS, JavaScript, PHP, MySQL, Figma, React JS, Symfony, Git, Jira
+
+***
+***
+
+# Code example:
+
+```javascript
+import React, { useEffect } from 'react';
+
+useEffect(() => {
+  console.log('Hello world!');
+}, []);
+```
+
+# Work Experience:
+
+### 1. ZFORT Group (Full-stack Developer)
+### 2. RAPID DEVELOPMENT SERVICES (Full-stack Developer)
+### 3. PHP Link Directory (Full-stack Developer)
+
+***
+***
+
+# Education
+
+### Shidnoukrains'kij Nacional'nij Universitet im. Volodimira Dalja
+
+***
+***
+
+# Languages:
+
+### English B1
 
 ***
 ***
