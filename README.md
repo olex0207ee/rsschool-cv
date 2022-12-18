@@ -7,5 +7,5 @@ CV#3. CV. Cross-Check
 
 [Markup is created by olex0207ee](https://olex0207ee.github.io/rsschool-cv/cv)
 
-[Website is created by ](https://olex0207ee.github.io/rsschool-cv/)
+[Website is created by olex0207ee](https://olex0207ee.github.io/rsschool-cv/)
 
